@@ -21,7 +21,7 @@ function generateArray() {
 const generateBtn = document.querySelector("button");
 generateBtn.addEventListener("click", generateArray);
 
-//diable buttons
+//disable buttons
 function disableButtons(buttons, disabledBtn) {
   buttons.forEach(function (button) {
     if (button !== disabledBtn) {
