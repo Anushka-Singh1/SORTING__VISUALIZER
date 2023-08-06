@@ -54,3 +54,16 @@ button {
 button:hover {
     background-color: #d05107;
 }
+@media screen and (max-width: 768px) {
+    .buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    button {
+        margin: 5px;
+    }
+    .container {
+        height: 20vh;
+    }
+}
