@@ -2,6 +2,8 @@
 
 This is a Sorting Visualizer web application built with HTML, CSS, and JavaScript. It allows you to visualize different sorting algorithms in action on randomly generated arrays of bars.
 
+[![Check out the Live Demo](https://img.shields.io/badge/Live%20Demo-Visualize%20Sorting%20Algorithms-brightgreen)](https://sortsnap.netlify.app)
+
 ![sort](https://github.com/Anushka-Singh1/SORTING__VISUALIZER/assets/98011558/d77985ef-543c-4210-8ee2-fd898154186f)
 # Features
 <b>1.</b> Generate a random array of bars to visualize the sorting process.
